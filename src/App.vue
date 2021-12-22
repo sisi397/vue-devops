@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 김시은 App" />
+  <HelloWorld msg="Welcome to 김시은 Apps" />
 </template>
 
 <script>
